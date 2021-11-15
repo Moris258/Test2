@@ -6,12 +6,9 @@ Tohle je readme.
 
 Je to strasne nice.
 
-<<<<<<< HEAD
 ### Test 2-2
 
 Nevim co delam.
-=======
 ## Test Neco jineho
 
 Lul.
->>>>>>> main
