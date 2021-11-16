@@ -9,3 +9,7 @@ Tohle je test na branch Test.
 ## Test 1
 
 Tohle je test 1
+
+## Test 3
+
+Nice zmeny.
